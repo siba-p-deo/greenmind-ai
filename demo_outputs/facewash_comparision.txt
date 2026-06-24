@@ -1,0 +1,34 @@
+What product do you want to buy?
+> facewash
+Why do you want to buy it?
+> influencer recommended it
+
+Detected Category:
+self_care
+
+Impulse Type:
+Comparison
+
+Reasoning:
+Detected because the purchase motivation appears driven by comparison, trends, recommendations, or preference evaluation.
+
+Retrieved Category:
+08_self_care_products.md
+
+Suggested Alternatives:
+• Finish current products before buying new ones
+• Choose refillable packaging options
+• Purchase only products addressing a specific need
+
+Sustainability Context:
+# Self-Care Products
+
+## Environmental Impact
+
+Self-care and personal care products — skincare, haircare, grooming, and hygiene items — generate environmental impact across two primary dimensions: formulation and packaging. At the category level, single-use plastic packaging is a dominant concern, with the global personal care sector producing billions of plastic units annually, many of which are too small or contaminated to be practically recycled. Certain formulation ingredients — microbeads,
+
+Reflection:
+The motivation appears influenced by comparison, trends, or external recommendations. Consider whether the purchase solves a real problem you currently face.
+
+Suggested Action:
+List three practical reasons you need the product beyond trends or recommendations.

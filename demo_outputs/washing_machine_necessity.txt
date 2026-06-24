@@ -1,0 +1,34 @@
+What product do you want to buy?
+> Washing Machine
+Why do you want to buy it?
+> Current one is broken
+
+Detected Category:
+home_appliances
+
+Impulse Type:
+Necessity
+
+Reasoning:
+Detected because the user described a functional problem or product failure.
+
+Retrieved Category:
+10_home_appliances.md
+
+Suggested Alternatives:
+• Repair the appliance
+• Replace faulty components
+• Purchase certified refurbished appliances
+
+Sustainability Context:
+# Home Appliances
+
+## Environmental Impact
+
+Home appliances — refrigerators, washing machines, dishwashers, ovens, and smaller kitchen devices — are unusual in the consumer goods landscape because their operational environmental impact over a lifetime of use can exceed their manufacturing footprint. Energy consumption during use is the dominant impact driver for large appliances. At the category level, refrigeration and laundry account for significant shares of residential electricity consumptio
+
+Reflection:
+The purchase appears driven by a genuine functional need. If replacement is required, consider durable and repairable options.
+
+Suggested Action:
+Check whether repair is possible before replacing the product.

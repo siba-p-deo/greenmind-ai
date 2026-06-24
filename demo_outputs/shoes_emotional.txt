@@ -1,0 +1,34 @@
+What product do you want to buy?
+> sneakers
+Why do you want to buy it?
+> there is a huge sale and i wanted them
+
+Detected Category:
+shoes
+
+Impulse Type:
+Emotional
+
+Reasoning:
+Detected because the purchase appears influenced by emotions, promotions, or personal desire.
+
+Retrieved Category:
+04_shoes.md
+
+Suggested Alternatives:
+• Repair soles or stitching
+• Purchase second-hand shoes
+• Choose durable long-lasting footwear
+
+Sustainability Context:
+# Shoes
+
+## Environmental Impact
+
+Footwear production is resource-intensive at a category level. Leather production carries a significant land use and methane footprint associated with livestock farming, as well as chemical-heavy tanning processes. Synthetic alternatives such as PU and PVC reduce animal inputs but introduce fossil-fuel-derived materials and chemical processing concerns. Most footwear combines multiple materials — rubber, foam, textile, adhesives — which complicates end-of-life p
+
+Reflection:
+The purchase appears emotionally driven. Waiting a few days before purchasing may help determine whether the need is genuine.
+
+Suggested Action:
+Try a 48-hour pause before making the final purchase decision

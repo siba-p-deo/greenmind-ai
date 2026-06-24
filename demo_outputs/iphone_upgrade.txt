@@ -1,0 +1,34 @@
+What product do you want to buy?
+> iPhone
+Why do you want to buy it?
+> Better camera and new features
+
+Detected Category:
+smartphones
+
+Impulse Type:
+Upgrade
+
+Reasoning:
+Detected because the user mentioned improved features or performance rather than replacement of a failed product.
+
+Retrieved Category:
+01_smartphones.md
+
+Suggested Alternatives:
+• Replace the battery of your current device
+• Repair the existing device
+• Purchase a certified refurbished smartphone
+
+Sustainability Context:
+# Smartphones
+
+## Environmental Impact
+
+At a category level, smartphones carry a high environmental footprint concentrated in manufacturing. Rare earth mineral extraction for components such as lithium, cobalt, and tantalum involves energy-intensive mining with documented ecosystem impacts. Semiconductor fabrication requires significant water and chemical inputs. Studies at the category level consistently show that the majority of a smartphone's lifetime carbon footprint — often cited as more th
+
+Reflection:
+The purchase appears motivated by improved features rather than product failure. Consider whether your current product still meets your needs.
+
+Suggested Action:
+Compare the expected benefit against extending the lifespan of your existing product.
