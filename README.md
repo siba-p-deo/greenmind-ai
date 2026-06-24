@@ -4,6 +4,9 @@ GreenMind AI is an AI-powered sustainability decision-support assistant designed
 
 The project aligns with **United Nations Sustainable Development Goal 12 (Responsible Consumption and Production)** by encouraging users to reflect on their purchasing motivations before buying products.
 
+Repository:
+https://github.com/yourusername/greenmind-ai
+
 ---
 
 # Problem Statement

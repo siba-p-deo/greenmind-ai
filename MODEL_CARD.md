@@ -167,8 +167,11 @@
 
 ## Contact & Feedback
 
+Source Code Repository:
+https://github.com/siba-p-deo/greenmind-ai
+
 For questions, feedback, or to report issues:
-- GitHub Issues: [repository link]
+- GitHub Issues: https://github.com/siba-p-deo
 - Email: siba.p.deo@gmail.com
 
 ## References
