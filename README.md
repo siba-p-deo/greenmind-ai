@@ -5,7 +5,7 @@ GreenMind AI is an AI-powered sustainability decision-support assistant designed
 The project aligns with **United Nations Sustainable Development Goal 12 (Responsible Consumption and Production)** by encouraging users to reflect on their purchasing motivations before buying products.
 
 Repository:
-https://github.com/yourusername/greenmind-ai
+https://github.com/siba-p-deo/greenmind-ai
 
 ---
 
@@ -121,7 +121,7 @@ pip install -r requirements.txt
 # Build Knowledge Base
 
 ```bash
-python build_db.py
+python ingest.py
 ```
 
 ---
@@ -163,26 +163,37 @@ Your motivation appears driven by feature improvements rather than product failu
 # Project Structure
 
 ```text
-greenmind/
-│
-├── greenmind_cli.py
-├── build_db.py
+greenmind-ai/
 │
 ├── agents/
+│   ├── alternatives_agent.py
 │   ├── category_detector.py
 │   ├── impulse_agent.py
 │   └── reflection_agent.py
 │
 ├── knowledge_base/
-│   ├── smartphones.md
-│   ├── laptops.md
-│   └── ...
+│   ├── 01_smartphones.md
+│   ├── 02_laptops.md
+│   ├── ...
 │
-├── db/
+├── demo_outputs/
+│   ├── iphone_upgrade.txt
+│   ├── facewash_comparison.txt
+│   ├── washing_machine_necessity.txt
+│   └── gaming_mouse_comparison.txt
+│
+├── utils/
+│   └── validators.py
+│
+├── ingest.py
+├── greenmind_cli.py
+├── requirements.txt
 │
 ├── README.md
 ├── MODEL_CARD.md
-└── ARCHITECTURE.md
+├── ARCHITECTURE.md
+│
+└── .gitignore
 ```
 
 ---
